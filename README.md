@@ -1,10 +1,4 @@
-# 🚧 README em construção 🚧
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# MySQL-one-for-all
+
+## Sobre o projeto:
+Nesse projeto realizei a normalização de acordo com as três formas normais de uma tabela previamente disponibilizada e, em seguida, criei um banco de dados e populei suas tabelas, as quais, com as suas devidas ` Primary Keys` e ` Foreign Keys`. Por fim, pratiquei meus conhecimentos de gerenciamento de bancos de dados através da criação de querys, contidas no arquivos ` desafio(X).sql`, para a resolução dos 11 desafios propostos no projeto.
